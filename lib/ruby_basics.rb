@@ -12,8 +12,8 @@ def argue(phrase)
   return phrase
 end
 
-def greeting
-
+def greeting(name, language)
+  return "Hi #{name} I heard you are great with #{language}."
 end
 
 def return_a_value
