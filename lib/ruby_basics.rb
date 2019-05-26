@@ -8,7 +8,8 @@ def assign_variable(name)
 end
 
 def argue(phrase)
-  return "I'm right and you are wrong!"
+  phrase = "I'm right and you are wrong!"
+  return phrase
 end
 
 def greeting
