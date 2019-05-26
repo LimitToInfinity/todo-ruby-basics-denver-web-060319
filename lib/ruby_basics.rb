@@ -2,13 +2,13 @@ def division(num1, num2)
  return num1 / num2
 end
 
-def assign_variable(value)
-  value = "Bob"
+def assign_variable(name)
+  name = "Bob"
   return value
 end
 
-def argue(argument)
-  return "argument"
+def argue(phrase)
+  return "I'm right and you are wrong!"
 end
 
 def greeting
